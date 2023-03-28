@@ -16,7 +16,7 @@ int main()
     cout << "sorted    Median \n";
     int sz;
     double median =0;
-    int arr[5] = { 1,3,2,4,5};
+    int arr[5] = { 1,3,2,4,5,3,56,7,1,8,16,19};
     vector<int> v;
     for(int element : arr){
         v.push_back(element);
